@@ -1,0 +1,25 @@
+body {
+	background-color : rgb(240,240,240);
+	color: rgb(30,30,30);
+	font-family: Anton, sans-serif;
+}
+h1 	{
+	color: red;
+	font-family: Anton, sans-serif;
+	font-weight: 200;
+	font-size: 32px;
+}
+
+h2 	{
+	color: red;
+	font-family: Anton, sans-serif;
+	font-weight: 200;
+	font-size: 32px;
+}
+
+h3 	{
+	color: red;
+	font-family: Anton, sans-serif;
+	font-weight: 200;
+	font-size: 32px;
+}
